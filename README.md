@@ -95,11 +95,11 @@ An AI-powered interview preparation platform designed to help candidates improve
 
 **Focus Areas:** Artificial Intelligence, Full-Stack Development, Voice Interaction, Application Architecture.
 
-🔗 **Repository:** [Coming soon]
+🔗 **Repository:** Coming soon
 
 ---
 
-### 2. 📚 GyanMarg — AI-Powered Adaptive Learning Platform
+### 2. 📚 GyanMarg (Collaborative) — AI-Powered Adaptive Learning Platform
 
 An intelligent learning platform focused on identifying knowledge gaps and creating personalized learning experiences based on individual competencies.
 
@@ -113,11 +113,11 @@ An intelligent learning platform focused on identifying knowledge gaps and creat
 
 **Technology:** React, TypeScript, Vite, Supabase.
 
-🔗 **[View Repository](https://github.com/HEMANTHCHOWDARY-OFF/GyanMarg)**
+🔗 [View Repository](https://github.com/HEMANTHCHOWDARY-OFF/GyanMarg)
 
 ---
 
-### 3. 🌐 Neural Nexus — AI-Powered Developer Ecosystem
+### 3. 🌐 Neural Nexus (Collaborative) — AI-Powered Developer Ecosystem
 
 A productivity and career development platform designed to bring developer collaboration, coding, and career preparation into a unified ecosystem.
 
@@ -131,11 +131,11 @@ A productivity and career development platform designed to bring developer colla
 
 **Technology:** Next.js, React, Firebase, Tailwind CSS, AI integrations.
 
-🔗 **[View Repository](https://github.com/HEMANTHCHOWDARY-OFF/Neural_Nexus)**
+🔗 [View Repository](https://github.com/HEMANTHCHOWDARY-OFF/Neural_Nexus)
 
 ---
 
-### 4. 📊 Placement Prep Tracker
+### 4. 📊 Placement Prep Tracker (Collaborative)
 
 A placement preparation tracking application that helps students organize their preparation activities and monitor their placement readiness.
 
@@ -150,7 +150,7 @@ A placement preparation tracking application that helps students organize their 
 
 **Technology:** HTML, CSS, JavaScript, Bootstrap, Firebase, Chart.js.
 
-🔗 **[View Repository](https://github.com/HEMANTHCHOWDARY-OFF/prep-tracker)**
+🔗 [View Repository](https://github.com/HEMANTHCHOWDARY-OFF/prep-tracker)
 
 ---
 
@@ -168,63 +168,13 @@ A web application focused on hackathon discovery, developer collaboration, and s
 
 **Technology:** HTML, CSS, JavaScript, Firebase, Three.js, GSAP.
 
-🔗 **[View Repository](https://github.com/HEMANTHCHOWDARY-OFF/HackPulse)**
+🔗 [View Repository](https://github.com/HEMANTHCHOWDARY-OFF/HackPulse)
 
 ---
 
-## ☕ Java & Backend Development Projects
+### 6. 🩺 Shishu Suraksha (Collaborative) — AI-Assisted Child Development Monitoring
 
-### 6. 📖 Library Management System
-
-A Core Java application demonstrating object-oriented programming through basic library operations.
-
-**Key Features:**
-- Book management
-- Student registration
-- Book issuing and returning
-- Book availability tracking
-
-**Concepts:** Java, OOP, Classes, Objects, Arrays, Methods.
-
-🔗 **[View Repository](https://github.com/HEMANTHCHOWDARY-OFF/Library-Management-System)**
-
-### 7. ❌ Tic-Tac-Toe
-
-A Java-based two-player game implementing fundamental programming and logical problem-solving concepts.
-
-**Key Features:**
-- Interactive 3×3 game board
-- Two-player gameplay
-- Winner and draw detection
-- Input validation
-
-**Concepts:** Java, Arrays, Loops, Conditional Statements, Methods.
-
-🔗 **[View Repository](https://github.com/HEMANTHCHOWDARY-OFF/Tic-Tac-Toe)**
-
-### 8. 🔌 REST API — Spring Boot
-
-A Java Spring Boot backend learning project focused on understanding REST API development and backend application structure.
-
-**Technology:** Java, Spring Boot, Spring Web, Maven.
-
-🔗 **[View Repository](https://github.com/HEMANTHCHOWDARY-OFF/Demo2-RestAPI-)**
-
-### 9. 🗄️ JPA & Hibernate — Spring Boot
-
-A backend development project exploring object-relational mapping and database persistence using Java technologies.
-
-**Concepts:** Spring Boot, Spring Data JPA, Hibernate, MySQL.
-
-🔗 **[View Repository](https://github.com/HEMANTHCHOWDARY-OFF/Demo-4-JPA-and-Hibernate-)**
-
----
-
-## 🤝 Collaborative Projects
-
-### 🩺 Shishu Suraksha — AI-Assisted Child Development Monitoring
-
-A collaborative social-impact project focused on child development screening, health monitoring, and AI-assisted support for healthcare workers.
+A social-impact project focused on child development screening, health monitoring, and AI-assisted support for healthcare workers.
 
 **Key Features:**
 - Child development milestone screening
@@ -236,7 +186,55 @@ A collaborative social-impact project focused on child development screening, he
 
 **Technology:** Flutter, Dart, Firebase, Python, Flask, AI integrations.
 
-🔗 **[View Repository](https://github.com/parvathi-s25/Shishu_suraksha)**
+🔗 [View Repository](https://github.com/parvathi-s25/Shishu_suraksha)
+
+---
+
+## ☕ Java & Backend Development Projects
+
+### 7. 📖 Library Management System
+
+A Core Java application demonstrating object-oriented programming through basic library operations.
+
+**Key Features:**
+- Book management
+- Student registration
+- Book issuing and returning
+- Book availability tracking
+
+**Concepts:** Java, OOP, Classes, Objects, Arrays, Methods.
+
+🔗 [View Repository](https://github.com/HEMANTHCHOWDARY-OFF/Library-Management-System)
+
+### 8. ❌ Tic-Tac-Toe
+
+A Java-based two-player game implementing fundamental programming and logical problem-solving concepts.
+
+**Key Features:**
+- Interactive 3×3 game board
+- Two-player gameplay
+- Winner and draw detection
+- Input validation
+
+**Concepts:** Java, Arrays, Loops, Conditional Statements, Methods.
+
+🔗 [View Repository](https://github.com/HEMANTHCHOWDARY-OFF/Tic-Tac-Toe)
+
+### 9. 🔌 REST API — Spring Boot
+
+A Java Spring Boot backend learning project focused on understanding REST API development and backend application structure.
+
+**Technology:** Java, Spring Boot, Spring Web, Maven.
+
+🔗 [View Repository](https://github.com/HEMANTHCHOWDARY-OFF/Demo2-RestAPI-)
+
+### 10. 🗄️ JPA & Hibernate — Spring Boot
+
+A backend development project exploring object-relational mapping and database persistence using Java technologies.
+
+**Concepts:** Spring Boot, Spring Data JPA, Hibernate, MySQL.
+
+🔗 [View Repository](https://github.com/HEMANTHCHOWDARY-OFF/Demo-4-JPA-and-Hibernate-)
 
 ---
 
@@ -284,7 +282,7 @@ I'm always open to connecting with developers, exchanging ideas, learning new te
 ---
 
 <p align="center">
-  ### 💡 Learn. Build. Understand. Improve.
+  <b>💡 Learn. Build. Understand. Improve.</b>
   <br/>
   <i>Building better software, one line of code at a time.</i>
 </p>
